@@ -6,20 +6,20 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "view": "split-vertical",
-    "fontsize": "100",
-    "seethrough": "",
-    "prefixfree": "1",
-    "page": "css",
     "body-parser": "~1.13.2",
     "cookie-parser": "~1.3.5",
     "debug": "~2.2.0",
     "express": "~4.13.1",
+    "fontsize": "100",
     "hjs": "~0.0.6",
     "less-middleware": "1.0.x",
-    "mongoose": "^4.2.9",
+    "mongoose": "^4.3.1",
     "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0"
+    "page": "css",
+    "prefixfree": "1",
+    "seethrough": "",
+    "serve-favicon": "~2.3.0",
+    "view": "split-vertical"
   },
   "devDependencies": {
     "flightplan": "^0.6.7",
